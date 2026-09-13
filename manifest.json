@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": 3,
-  "publishedAt": "2026-09-13T16:33:03.2920458+00:00",
+  "version": 4,
+  "publishedAt": "2026-09-13T21:03:06.6111164+00:00",
   "launcher": {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "minVersion": "0.1.0",
-    "url": "https://github.com/srosellj/blackout-releases/releases/download/launcher-v0.1.1/BlackoutLauncher.exe",
-    "size": 36853248,
-    "sha256": "3e2e0e75976fca52298c6a5f8c2487a290fbd37ebffcf2c4775bb36008806362"
+    "url": "https://github.com/srosellj/blackout-releases/releases/download/launcher-v0.1.2/BlackoutLauncher.exe",
+    "size": 36853760,
+    "sha256": "6c76845d02d9b87b2108568658c927d1b04cb60f1b343f278258dfb9e29fd9a4"
   },
   "shard": {
     "host": "192.168.1.201",
@@ -27,6 +27,168 @@
       "size": 553,
       "sha256": "9e33249d43563df004ea6a52562bb406f446e4bc2366379bcd7cb785bdf4af77",
       "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.0/ClassicUO.exe.config"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/FastColoredTextBox.dll",
+      "size": 270336,
+      "sha256": "7558bfd311a759872abbd22a9e2cd548e8f8cd8b0637636a0d846887459375a2",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__FastColoredTextBox.dll"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Language/Razor_lang.CHS",
+      "size": 20348,
+      "sha256": "ea2f8f2b5d0ad41b2868beff892354b923ee7d0b454ec1bcd40edbb4e68b3c50",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Language__Razor_lang.CHS"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Language/Razor_lang.PTB",
+      "size": 16039,
+      "sha256": "a865b6607d14af69d8b3155739e54f2d6052ceaab6348156130aa839bc2d90b9",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Language__Razor_lang.PTB"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Language/Razor_lang.bg",
+      "size": 15247,
+      "sha256": "fb882cbbbb5beafaf00612cc67fa9dd653cbd1259cd728b9c0d79ce2c82614dc",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Language__Razor_lang.bg"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Language/Razor_lang.cht",
+      "size": 20494,
+      "sha256": "a40adf0c0c93c4b442e7e54c692441cc5cf049dfecc0efb387c0b24246cef728",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Language__Razor_lang.cht"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Language/Razor_lang.deu",
+      "size": 25207,
+      "sha256": "1c178ed72ef114da9f515eba125d38a03de941d83fcdc606810f285f22c0a355",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Language__Razor_lang.deu"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Language/Razor_lang.enu",
+      "size": 30977,
+      "sha256": "d37250f31bc8d9091589422557648100199310a1fe4f13245532b92f7c39310f",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Language__Razor_lang.enu"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Language/Razor_lang.esp",
+      "size": 15575,
+      "sha256": "372e9a083d328516b5327aadba566c1a254fb4891ec6d21901304690eb2b1554",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Language__Razor_lang.esp"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Language/Razor_lang.ita",
+      "size": 15276,
+      "sha256": "fb6481b9a4517f3f5a7082336dfbb83b7d4cfb8e5f59c8de6b423d43d8e2ff62",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Language__Razor_lang.ita"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Language/Razor_lang.pl",
+      "size": 22005,
+      "sha256": "2a626775090c9a45bcef75be93000c4b9171f3097f1fa5f27a06c0cc792535b1",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Language__Razor_lang.pl"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Language/Razor_lang.rus",
+      "size": 32914,
+      "sha256": "888857ac2c8db9e5630f13f37575f91a0803e93afeec267b0c34264a349cc6e8",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Language__Razor_lang.rus"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Language/Razor_lang.swe",
+      "size": 22064,
+      "sha256": "65df3bb1c01ba6198737d877f9d56b8998123c0c75057abc903b60e5bd9778de",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Language__Razor_lang.swe"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Language/Razor_lang.tur",
+      "size": 18218,
+      "sha256": "7a31865dd22497850f2486ff840fe154972479c43824231921dabb4bc3263958",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Language__Razor_lang.tur"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Razor.exe",
+      "size": 1638400,
+      "sha256": "9251f5e9873ee454a240764a1c6525843d53090a5c77b6528897f07bab700c54",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Razor.exe"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/Razor.exe.config",
+      "size": 1213,
+      "sha256": "b233f6d17de94fe5b52bc29133fbff3e35ac83d10405645daf91109f226a7640",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__Razor.exe.config"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/animdata.csv",
+      "size": 10151,
+      "sha256": "d9418ed26d11d688f0124c47dd02fd71dd409fde4b2a92ced43d92d6c6f1c465",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__animdata.csv"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/counters.xml",
+      "size": 3173,
+      "sha256": "f64699ac31e0c001304137db66619bb66d3561a4ec1bd77daf1be4f8efb03384",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__counters.xml"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/cuoapi.dll",
+      "size": 18432,
+      "sha256": "fd61b0f5fa22082d87ef37726d75c72a864a62aedd47061b1eac9c02c77e3b00",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__cuoapi.dll"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/doors.xml",
+      "size": 2038,
+      "sha256": "5e66a53e19ca82175632d427b93fd7f882ad8d1272c682bbc023b81806118119",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__doors.xml"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/guardlines.def",
+      "size": 2836,
+      "sha256": "d262f1a9bed7123c52144e55c249ca5eaed173ee1ad3167fd04eca71e89cd5e7",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__guardlines.def"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/items.xml",
+      "size": 465044,
+      "sha256": "a5eef54b0b73ad54820a8562b6db80ca4aa9e6e822bcab6f6b510eacd50daf68",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__items.xml"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/license.txt",
+      "size": 3971,
+      "sha256": "49dba750d453d404a67155f8c55c3158946baa13d5295dfd780f1fa186c6ae03",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__license.txt"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/overrides.def",
+      "size": 329,
+      "sha256": "049bb2526dacba0f2708a12d550f49a9882268d48a6ece8ce356ed959a9505da",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__overrides.def"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/spells.def",
+      "size": 8222,
+      "sha256": "172c6647684a1ba6859ba14b15ace29d19bf97a22ab7dde4231ba62770fa6821",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__spells.def"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/unrar.dll",
+      "size": 224888,
+      "sha256": "7f0429f1f7201b8666a8e673a7e402e92417e664694ed4877e569373188b3154",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__unrar.dll"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/uorguardlines.def",
+      "size": 2892,
+      "sha256": "a2f7efa5075fe823b8b6968478ee63c98108f7a84b4cf2fa697650858c671470",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__uorguardlines.def"
+    },
+    {
+      "path": "client/Data/Plugins/Assistant/zlib.dll",
+      "size": 165944,
+      "sha256": "274c65e40ca98fab5045489a809e025f27c2a92a73cb50b8c15ac2753137808e",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.1/Data__Plugins__Assistant__zlib.dll"
     },
     {
       "path": "client/FAudio.dll",
