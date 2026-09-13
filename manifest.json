@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 1,
-  "publishedAt": "2026-09-13T11:10:28.8454779+00:00",
+  "version": 2,
+  "publishedAt": "2026-09-13T16:24:20.8218558+00:00",
   "launcher": {
     "version": "0.1.0",
     "minVersion": "0.1.0",
@@ -156,9 +156,9 @@
     },
     {
       "path": "data/Bodyconv.def",
-      "size": 17031,
-      "sha256": "3bbd6b0cbea36701f79c28ac9c97b25b63047eed48e632650dc9b57a09a0d93b",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/Bodyconv.def"
+      "size": 17160,
+      "sha256": "22b09c494aed65b9970dc3bae1d013f4d9aac2a44482b33e599d32a9210e0adb",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v2/Bodyconv.def"
     },
     {
       "path": "data/Chat.cht",
@@ -1913,30 +1913,6 @@
       "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/map0.mul"
     },
     {
-      "path": "data/mapdif1.mul",
-      "size": 1574664,
-      "sha256": "8e68e20729008760ace3b7d9a498f6f2b0c283ca36469d16f9e4238a7f5a6a5b",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/mapdif1.mul"
-    },
-    {
-      "path": "data/mapdif2.mul",
-      "size": 52528,
-      "sha256": "647179c7ad91fe2c015260de7182d445f2a7f085dc91b704d3c14d788778e69a",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/mapdif2.mul"
-    },
-    {
-      "path": "data/mapdifl1.mul",
-      "size": 32136,
-      "sha256": "c49aae5e588429fe80491a47bdd16bd1063c469536446a4433c52398fe7cf728",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/mapdifl1.mul"
-    },
-    {
-      "path": "data/mapdifl2.mul",
-      "size": 1072,
-      "sha256": "8d291d6108ba80fd07e9c717d7c65cb9874bad04e7608a5a6b4db6cf6ae320a9",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/mapdifl2.mul"
-    },
-    {
       "path": "data/metrics.txt",
       "size": 512,
       "sha256": "1927c5d928935873fcbfec5721c67fa7ef36edf2427646d0b7647f09c00e4cb6",
@@ -2073,42 +2049,6 @@
       "size": 119714,
       "sha256": "c38c35ef523d39b5a1a08aac21325a0e816e4e39842fc93a4c04c838646f0941",
       "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/speech.mul"
-    },
-    {
-      "path": "data/stadif1.mul",
-      "size": 1088997,
-      "sha256": "25fba69d2f136932a197e6b6a902700b2d0fce1960750818070d96492f7783c9",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/stadif1.mul"
-    },
-    {
-      "path": "data/stadif2.mul",
-      "size": 193438,
-      "sha256": "c2eb6c27c34311d2d0f68cb4e2d34a5825baa8d3ef0b5a9fd3455c8cccca1bd5",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/stadif2.mul"
-    },
-    {
-      "path": "data/stadifi1.mul",
-      "size": 131172,
-      "sha256": "cd93719f41db33c1c985ac62012bc001efa0287d1c0f8329434cd082ff635b1e",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/stadifi1.mul"
-    },
-    {
-      "path": "data/stadifi2.mul",
-      "size": 3216,
-      "sha256": "ce272438c5ab36ad0e22c27373d206bdfaa5147c0d72ca7d269941878e2cb9e1",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/stadifi2.mul"
-    },
-    {
-      "path": "data/stadifl1.mul",
-      "size": 43724,
-      "sha256": "c464a2a346957829a6fa8a0f8a51f4b568d7781a78f91f9c261f2de2dd88bced",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/stadifl1.mul"
-    },
-    {
-      "path": "data/stadifl2.mul",
-      "size": 1072,
-      "sha256": "8d291d6108ba80fd07e9c717d7c65cb9874bad04e7608a5a6b4db6cf6ae320a9",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/stadifl2.mul"
     },
     {
       "path": "data/staidx0.mul",
