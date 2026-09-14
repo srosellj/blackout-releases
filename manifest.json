@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 9,
-  "publishedAt": "2026-09-14T12:18:35.3064339+00:00",
+  "version": 10,
+  "publishedAt": "2026-09-14T12:28:26.1257727+00:00",
   "launcher": {
     "version": "0.1.6",
     "minVersion": "0.1.0",
@@ -241,8 +241,8 @@
     {
       "path": "client/cuo.dll",
       "size": 14818816,
-      "sha256": "63b48851c89507d3ac290efbe1b2dac885d2cafcb77791f3dacf993f08074efc",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.0/cuo.dll"
+      "sha256": "658c5f3fb5c24d8b3f851c169a7deede5e1c818f4f9bc9846a424e4414f371f5",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.3/cuo.dll"
     },
     {
       "path": "client/cuoapi.dll",
