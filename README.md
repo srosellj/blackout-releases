@@ -32,11 +32,3 @@ data too (~1.2 GB); if you keep them, reinstalling into the same folder reuses t
 
 Click **Open log** in the launcher and attach `launcher.log` to your report. If the launcher
 cannot reach the update server, it still lets you play the version you already have.
-
-## For the administrator
-
-`manifest.json` and `manifest.sig` on `main` are what the launcher reads; the assets of the
-`data-vN`, `client-vX.Y.Z` and `launcher-vX.Y.Z` releases are immutable. They are published with
-`tools/Publish` from the `blackout-launcher` repository; the setup exe is built by that
-repository's CI on every `vX.Y.Z` tag. This repository is **never made private**: it would lock
-out every launcher already distributed.
