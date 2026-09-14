@@ -1,21 +1,42 @@
-# BlackoutUO — descargas
+# BlackoutUO — downloads
 
-Este repositorio solo aloja lo que el launcher descarga. No tiene código.
+This repository only hosts what the launcher downloads. It has no code.
 
-## Instalar
+## Install
 
-1. Descarga el último `BlackoutLauncher.exe` de la release `launcher-v…` más reciente.
-2. Windows mostrará «Windows protegió tu PC» porque el ejecutable no está firmado durante la
-   Alpha. Pulsa **Más información** y luego **Ejecutar de todas formas**.
-3. Elige la carpeta (o deja la que propone) y pulsa **Continuar**. El launcher descarga el cliente
-   y los datos (~1,2 GB la primera vez) y a partir de ahí solo lo que cambie.
-4. **Jugar.**
+1. Download **`BlackoutUO-Setup-vX.Y.Z.exe`** from the latest `launcher-v…` release
+   ([releases](https://github.com/srosellj/blackout-releases/releases)).
+2. Windows will show "Windows protected your PC" because the executable is not code-signed
+   during the Alpha. Click **More info**, then **Run anyway**.
+3. Pick the folder (or keep the one proposed) and finish. No administrator rights needed. The
+   setup adds a Start-menu entry and, if you leave the box ticked, a desktop shortcut.
+4. Start **BlackoutUO**. The launcher downloads the client and the game data (~1.2 GB the first
+   time; afterwards only what changed) and the button turns into **Play**.
 
-Si algo falla, pulsa **Abrir log** y adjunta `launcher.log` en el reporte.
+The launcher keeps itself, the client and the data up to date on every start. There is nothing to
+accept: the shard only admits the current build.
 
-## Para el administrador
+### Without the installer
 
-`manifest.json` y `manifest.sig` en `main` son lo que el launcher lee; los assets de las releases
-`data-vN`, `client-vX.Y.Z` y `launcher-vX.Y.Z` son inmutables. Se publican con `tools/Publish`
-del repo `blackout-launcher`. Este repositorio **no se pone en privado**: dejaría fuera a todos los
-launchers distribuidos.
+If you prefer a bare executable, download `BlackoutLauncher.exe` from the same release and run it
+from wherever you like; it asks for the folder on first start. The SmartScreen click-through is
+the same. This is also the file the launcher uses to update itself, so an installed launcher never
+needs a new setup.
+
+### Uninstall
+
+**Settings → Apps → BlackoutUO → Uninstall.** It asks whether to delete the downloaded client and
+data too (~1.2 GB); if you keep them, reinstalling into the same folder reuses them.
+
+### Something went wrong
+
+Click **Open log** in the launcher and attach `launcher.log` to your report. If the launcher
+cannot reach the update server, it still lets you play the version you already have.
+
+## For the administrator
+
+`manifest.json` and `manifest.sig` on `main` are what the launcher reads; the assets of the
+`data-vN`, `client-vX.Y.Z` and `launcher-vX.Y.Z` releases are immutable. They are published with
+`tools/Publish` from the `blackout-launcher` repository; the setup exe is built by that
+repository's CI on every `vX.Y.Z` tag. This repository is **never made private**: it would lock
+out every launcher already distributed.
