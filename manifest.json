@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 15,
-  "publishedAt": "2026-09-15T22:46:22.8563983+00:00",
+  "version": 16,
+  "publishedAt": "2026-09-25T10:59:28.8796688+00:00",
   "launcher": {
     "version": "0.1.7",
     "minVersion": "0.1.0",
@@ -10,7 +10,7 @@
     "sha256": "d1e9f24708a0d80aa8c6ef51e49854797bd2523ddcdd7dc7c0c8799e5938fa47"
   },
   "shard": {
-    "host": "192.168.1.201",
+    "host": "162.19.66.33",
     "port": 2593,
     "clientVersion": "7.0.20.0"
   },
