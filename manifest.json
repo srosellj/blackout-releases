@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 16,
-  "publishedAt": "2026-09-25T10:59:28.8796688+00:00",
+  "version": 17,
+  "publishedAt": "2026-09-27T20:01:30.7211398+00:00",
   "launcher": {
     "version": "0.1.7",
     "minVersion": "0.1.0",
@@ -1507,14 +1507,14 @@
     {
       "path": "data/Music/Digital/classic-combat1.mp3",
       "size": 980575,
-      "sha256": "2d5bf12de19a22584f59b5959dcb263db662986872629cb31638958f628c6234",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-combat1.mp3"
+      "sha256": "d868738d0aaad5748b5cd3942578680d414db498f2f9183ee762a67033d43df8",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-combat1.mp3"
     },
     {
       "path": "data/Music/Digital/classic-combat2.mp3",
       "size": 993532,
-      "sha256": "c549a61f49dfae0a61d97e92082e98cf960521b835d34b94b6b699a0a1ec97c8",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-combat2.mp3"
+      "sha256": "2e6e6e09e33ef1f740b17c729edf076f01d95cf49a594d5211c6d8035cb437b7",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-combat2.mp3"
     },
     {
       "path": "data/Music/Digital/classic-combat3.mp3",
@@ -1543,8 +1543,8 @@
     {
       "path": "data/Music/Digital/classic-dragflit.mp3",
       "size": 742338,
-      "sha256": "c52fe4b870d652bc310a3f54d2f712b82b7b2e3d5c4f48872339436bc8f6879b",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-dragflit.mp3"
+      "sha256": "23f41683a1929f7a51016ad6300b5001818ca550d83d3fdba10ff4149ee46aee",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-dragflit.mp3"
     },
     {
       "path": "data/Music/Digital/classic-dungeon2.mp3",
@@ -1554,9 +1554,9 @@
     },
     {
       "path": "data/Music/Digital/classic-dungeon9.mp3",
-      "size": 802524,
-      "sha256": "d7001a6d6febfb0599f8c47eb0c5ba723daa8e894341cbe8ac0b8a2a71d09d84",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-dungeon9.mp3"
+      "size": 801688,
+      "sha256": "6f61278bb95c5ab7c7a1b82be550e004ece3ada929528ba99ba367401a90fef5",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-dungeon9.mp3"
     },
     {
       "path": "data/Music/Digital/classic-forest_a.mp3",
@@ -1566,21 +1566,21 @@
     },
     {
       "path": "data/Music/Digital/classic-intown01.mp3",
-      "size": 1637607,
-      "sha256": "085850b4b1e28f13171bfba8c531ce0d392f0ae0f2be96786267933bb99f3be4",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-intown01.mp3"
+      "size": 1637189,
+      "sha256": "c3fff351923d12a3a8995150c44d5840118426791c45a80870f578256619916e",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-intown01.mp3"
     },
     {
       "path": "data/Music/Digital/classic-jhelom.mp3",
-      "size": 1926416,
-      "sha256": "efcdb9803b97dcac3872c5515d91eb5ff7cd27cab705c4dd7fe41863e39be283",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-jhelom.mp3"
+      "size": 1913878,
+      "sha256": "d0892615c13611d3e719f8f23765e0571697bd16150da810400892b7702043b3",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-jhelom.mp3"
     },
     {
       "path": "data/Music/Digital/classic-jungle_a.mp3",
       "size": 3520513,
-      "sha256": "b59998731b6a6146e70c5b1269750a3e19ac088e6ac140d008eb8dbf25836476",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-jungle_a.mp3"
+      "sha256": "867e64901b082b94b12e36a2f098e217abae5cb43418cbb6bb35cb1b3daa287c",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-jungle_a.mp3"
     },
     {
       "path": "data/Music/Digital/classic-lbcastle.mp3",
@@ -1590,9 +1590,9 @@
     },
     {
       "path": "data/Music/Digital/classic-linelle.mp3",
-      "size": 1897995,
-      "sha256": "e396a78b859fa4cab70dee25a772b37df8dc1413856a7292a6105f2278db6e13",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-linelle.mp3"
+      "size": 1882113,
+      "sha256": "e339599a188bbb110470c0d00983f50a8a7f77c83100a3bb3c99fb0c11ca8259",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-linelle.mp3"
     },
     {
       "path": "data/Music/Digital/classic-magincia.mp3",
@@ -1632,9 +1632,9 @@
     },
     {
       "path": "data/Music/Digital/classic-oldult01.mp3",
-      "size": 731471,
-      "sha256": "78cbf24a8dc74095bf8c1fa2cded0d46bad9ab819329e6348c34d4eff75bffed",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-oldult01.mp3"
+      "size": 730217,
+      "sha256": "296b9124e06b8f1dff87a4d13ef97a3d8f220122262e0f00be4cdc84054f3a3a",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-oldult01.mp3"
     },
     {
       "path": "data/Music/Digital/classic-oldult02.mp3",
@@ -1668,15 +1668,15 @@
     },
     {
       "path": "data/Music/Digital/classic-plains_a.mp3",
-      "size": 1899249,
-      "sha256": "e266acdf46934ac0201876fe40574cdef97d2c3404097e5007a9ae157b0a9ffb",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-plains_a.mp3"
+      "size": 1883367,
+      "sha256": "64e9a9a0b85772b7742386dd28b0c8e5f814aa52ffd3a952564d2ade0fd42647",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-plains_a.mp3"
     },
     {
       "path": "data/Music/Digital/classic-sailing.mp3",
-      "size": 1481290,
-      "sha256": "4996d936efde3a08d462f563352b209841647e24c8cd3d8b27954e60d96dc9cf",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-sailing.mp3"
+      "size": 1477110,
+      "sha256": "01f4bb5f49caac24e195b7e05f7e012471da0f75f8992275ebaa286fae37b27e",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-sailing.mp3"
     },
     {
       "path": "data/Music/Digital/classic-samlethe.mp3",
@@ -1686,15 +1686,15 @@
     },
     {
       "path": "data/Music/Digital/classic-serpents.mp3",
-      "size": 1642204,
-      "sha256": "d01a25957cde908f3f3ba64e7f22a6540cf311b36c456e2f0d53e0f149ddc729",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-serpents.mp3"
+      "size": 1629665,
+      "sha256": "55aee478257bc8d8a477e3e94bccfb5f9b644099e679ceadb09b306248ca7342",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-serpents.mp3"
     },
     {
       "path": "data/Music/Digital/classic-skarabra.mp3",
-      "size": 1974482,
-      "sha256": "b8f8fc50b36717bb32ffea9bdb5c1f5ea54baff35e9a67c46f83179a43c9b8aa",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-skarabra.mp3"
+      "size": 1961943,
+      "sha256": "1e9947115e0a2957ab9018f9bf0adacf05bf19d6eab218f983fff333720df0cc",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-skarabra.mp3"
     },
     {
       "path": "data/Music/Digital/classic-stones2.mp3",
@@ -1710,15 +1710,15 @@
     },
     {
       "path": "data/Music/Digital/classic-tavern01.mp3",
-      "size": 956333,
-      "sha256": "5ef74ef2f5363051934350493a67390982833b2a7521dd39fe3b096eee2cdc47",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-tavern01.mp3"
+      "size": 947138,
+      "sha256": "69250fe2e8d55202543faf41e6fb7c5f58bb0f32491070b03e3f68bb97a7598b",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-tavern01.mp3"
     },
     {
       "path": "data/Music/Digital/classic-tavern02.mp3",
-      "size": 626981,
-      "sha256": "e10c56b759c1678a5b7a317a5f7d2da0b5c3c6fce05fe0bf822dbdeab1663ce9",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-tavern02.mp3"
+      "size": 614025,
+      "sha256": "ade3f7b8c8f4eb12f5fda7474894ab0948429c3b3356c7cd604941f4006bd13e",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-tavern02.mp3"
     },
     {
       "path": "data/Music/Digital/classic-tavern03.mp3",
@@ -1729,26 +1729,26 @@
     {
       "path": "data/Music/Digital/classic-tavern04.mp3",
       "size": 657492,
-      "sha256": "91fb65561aa7ad5e70f31144b1962398f5cc1d0e14ced5b38ca942c09c52bfed",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-tavern04.mp3"
+      "sha256": "a10014cab63777a56123790535a2fec050912b841b3ac700ecc397490c26fbef",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-tavern04.mp3"
     },
     {
       "path": "data/Music/Digital/classic-trinsic.mp3",
-      "size": 1506367,
-      "sha256": "87c5aa9a616e9edcfd623a149c7a565220743a33435632ac1bb8b3aa24662a25",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-trinsic.mp3"
+      "size": 1503024,
+      "sha256": "4b41621221b510a82ad93c025369ef30a3e3b2f044cf2a12780d2e3fd8d7a959",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-trinsic.mp3"
     },
     {
       "path": "data/Music/Digital/classic-vesper.mp3",
-      "size": 1940627,
-      "sha256": "7c182f80036b2cd9908c1f34d1c2f5ea92536e9923354b9a8cd44cf392b09f1d",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-vesper.mp3"
+      "size": 1923909,
+      "sha256": "ba1f63b0fb533c35392f791897fdb303ebea2c3bb8459bf747720e8cfc20a912",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-vesper.mp3"
     },
     {
       "path": "data/Music/Digital/classic-victory.mp3",
-      "size": 261685,
-      "sha256": "577521369fc139debb306fb06edc1c526320379981fe97bc5fe9841fa4931bc5",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-victory.mp3"
+      "size": 259595,
+      "sha256": "919d5f4f2a077fcb1868a2f63e30b64e7fd77f30081ec087b635e3be009daf34",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-victory.mp3"
     },
     {
       "path": "data/Music/Digital/classic-wind.mp3",
@@ -1758,9 +1758,9 @@
     },
     {
       "path": "data/Music/Digital/classic-yew.mp3",
-      "size": 1913460,
-      "sha256": "350e37eb8faa06259aee25387680c2256d28367d9c9350bbeae92b6f523c2fdf",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v6/Music__Digital__classic-yew.mp3"
+      "size": 1900921,
+      "sha256": "1ca10cf9119a59904eda45c7d231b179a4f166d4a9357ebc443aeeac76853ee0",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v7/Music__Digital__classic-yew.mp3"
     },
     {
       "path": "data/Music/Digital/dread_horn_area.mp3",
