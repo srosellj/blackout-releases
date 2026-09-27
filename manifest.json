@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 17,
-  "publishedAt": "2026-09-27T20:01:30.7211398+00:00",
+  "version": 18,
+  "publishedAt": "2026-09-27T21:05:04.7317065+00:00",
   "launcher": {
     "version": "0.1.7",
     "minVersion": "0.1.0",
@@ -19,8 +19,8 @@
     {
       "path": "client/ClassicUO.exe",
       "size": 201216,
-      "sha256": "5872f26dfc5e0b14958ca9efca69c3d80b50f2f8287945fbc8e04e9ab6d3433c",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.5/ClassicUO.exe"
+      "sha256": "3f5c8614e0bcec91e6a035213b66e4235414b9639e0601008bb033e6d48a9580",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.6/ClassicUO.exe"
     },
     {
       "path": "client/ClassicUO.exe.config",
@@ -240,9 +240,9 @@
     },
     {
       "path": "client/cuo.dll",
-      "size": 14818816,
-      "sha256": "2b9a4ca6a5bf12ade64454dfe34bae1c4bcb7ede2362c5abbb62611ad71db811",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.5/cuo.dll"
+      "size": 14864896,
+      "sha256": "7f57af608fd217d19cd0d9bb2f830fc1fa358e9b1b4e9756c8b7c394b39bd719",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.6/cuo.dll"
     },
     {
       "path": "client/cuoapi.dll",
@@ -1085,6 +1085,12 @@
       "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v1/Music__Digital__Citynightedit.mp3"
     },
     {
+      "path": "data/Music/Digital/Classic.txt",
+      "size": 1163,
+      "sha256": "283a2ec8589649644f6b4a0da03ac2a355ac73a607b7098743457deff864a89f",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v8/Music__Digital__Classic.txt"
+    },
+    {
       "path": "data/Music/Digital/CodexShrine.mp3",
       "size": 608131,
       "sha256": "8b5cb17544d85c57e2067e02a3c10f96f7bcd5482950368ced6ad9cea5db815b",
@@ -1092,9 +1098,9 @@
     },
     {
       "path": "data/Music/Digital/Config.txt",
-      "size": 1979,
-      "sha256": "256f3867fba89f353b6b032c436747d827b465dd3436a3e079ba46ff825fc793",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v3/Music__Digital__Config.txt"
+      "size": 1620,
+      "sha256": "908308e2b0d44b2adcd05ed9af7837a31105f173c90739dee4d44500e12cc666",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/data-v8/Music__Digital__Config.txt"
     },
     {
       "path": "data/Music/Digital/ConversationWithGwenno.mp3",
