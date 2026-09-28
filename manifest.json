@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 20,
-  "publishedAt": "2026-09-28T22:48:20.8725321+00:00",
+  "version": 21,
+  "publishedAt": "2026-09-28T22:53:32.6847261+00:00",
   "launcher": {
     "version": "0.1.8",
     "minVersion": "0.1.0",
@@ -19,8 +19,8 @@
     {
       "path": "client/ClassicUO.exe",
       "size": 201216,
-      "sha256": "d9d1025d602733ba34a007e4ded86b2887ede42670b0a8046d88cb7bcb62f7d5",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.7/ClassicUO.exe"
+      "sha256": "cfaf0724d924d8d5f6bcf919ea7bf953bc6cc6ad2fd558c9f9c96ff1187576b6",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.8/ClassicUO.exe"
     },
     {
       "path": "client/ClassicUO.exe.config",
@@ -241,8 +241,8 @@
     {
       "path": "client/cuo.dll",
       "size": 14876160,
-      "sha256": "79731ba76d53d6287d2a03b16794cf9ef1ae843d550ee5991dddd95fd7861764",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.7/cuo.dll"
+      "sha256": "72056e4df7a84aff89904e70cc89acb06d0c654d3b948b4572a925b014a6279a",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.8/cuo.dll"
     },
     {
       "path": "client/cuoapi.dll",
