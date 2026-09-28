@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": 18,
-  "publishedAt": "2026-09-27T21:05:04.7317065+00:00",
+  "version": 19,
+  "publishedAt": "2026-09-28T19:28:06.6364874+00:00",
   "launcher": {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "minVersion": "0.1.0",
-    "url": "https://github.com/srosellj/blackout-releases/releases/download/launcher-v0.1.7/BlackoutLauncher.exe",
-    "size": 36877824,
-    "sha256": "d1e9f24708a0d80aa8c6ef51e49854797bd2523ddcdd7dc7c0c8799e5938fa47"
+    "url": "https://github.com/srosellj/blackout-releases/releases/download/launcher-v0.1.8/BlackoutLauncher.exe",
+    "size": 36868096,
+    "sha256": "fa8fd6f459bda3b07161a0b6572108fb65e0550519aa485fdea0157194e07dd7"
   },
   "shard": {
     "host": "162.19.66.33",
