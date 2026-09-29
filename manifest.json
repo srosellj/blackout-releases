@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 23,
-  "publishedAt": "2026-09-29T07:34:00.2414506+00:00",
+  "version": 24,
+  "publishedAt": "2026-09-29T09:12:21.4354983+00:00",
   "launcher": {
     "version": "0.1.8",
     "minVersion": "0.1.0",
@@ -19,14 +19,572 @@
     {
       "path": "client/ClassicUO.exe",
       "size": 201216,
-      "sha256": "a34d4382a4e30e20a9dafc0fbf917af81065d9ef55d64c0a1c3c58d9a33bfb25",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.10/ClassicUO.exe"
+      "sha256": "dd07e04ae1f3648e38ec2c0a01cabc77501432a60db217c783117257439739cb",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/ClassicUO.exe"
     },
     {
       "path": "client/ClassicUO.exe.config",
       "size": 553,
       "sha256": "9e33249d43563df004ea6a52562bb406f446e4bc2366379bcd7cb785bdf4af77",
       "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.0/ClassicUO.exe.config"
+    },
+    {
+      "path": "client/Data/Client/Blackout-Atlas.csv",
+      "size": 5299,
+      "sha256": "34c6176ad3b6c7b27a7f6c47f23b13bc97cb038600d8a63d0aec0f941185e4f1",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__Blackout-Atlas.csv"
+    },
+    {
+      "path": "client/Data/Client/Blackout-Common.csv",
+      "size": 27336,
+      "sha256": "c4084e4332822e2c1c8abcc1698406c76ef6ba8065257ebae7cc11d9905a9075",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__Blackout-Common.csv"
+    },
+    {
+      "path": "client/Data/Client/Blackout-Dungeons.csv",
+      "size": 3624,
+      "sha256": "0fb54b30e29e56af9eb4f715e629aa9a0a6917d211c140fcffcbcbb5f676873a",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__Blackout-Dungeons.csv"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-agapite.cur",
+      "size": 1822,
+      "sha256": "050aa5f1cfe302f77417c48b2a300c9e2d2d0cf35acec9279528e52914e398c8",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-agapite.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-archers.cur",
+      "size": 1662,
+      "sha256": "47997693b6aeb8b1e7b196d627043fba064a6224596cd09a66ce45a55d3af5fc",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-archers.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-armaments.cur",
+      "size": 1662,
+      "sha256": "8a45dc6f00c05ac707861e6cd2ab51f156f93dc7ea18116f323119f4dc56efd5",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-armaments.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-armourers.cur",
+      "size": 1662,
+      "sha256": "245ea135d11ccad225a3e95667143145603e1fa156745c21454d9b4b322ba8c0",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-armourers.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-arms.cur",
+      "size": 1662,
+      "sha256": "a74023923f572eb10eb8d91b65889237580c72df4b417c1d3d4ef7cb17dd34a8",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-arms.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-assasins.cur",
+      "size": 1662,
+      "sha256": "77522da1e2bff34936e16720de29198025ad0f1387a4e246e00b8c679d03dbc1",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-assasins.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-baker.cur",
+      "size": 1662,
+      "sha256": "322414a22712ae0e4bdc956a63527f9fba6ea948a705a0669a59ef02b673d62f",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-baker.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-bank.cur",
+      "size": 1662,
+      "sha256": "5e056fdf21158b7b50507a650d0ec8cb7bfb2ba0aaab1dec45f0f91a6c772628",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-bank.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-barbershop.cur",
+      "size": 1662,
+      "sha256": "1834e3c04e79a54071d582dd59da3ba7439967f1cf94c87ac87e6055251574bc",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-barbershop.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-bard.cur",
+      "size": 1662,
+      "sha256": "06a30b073f0ee093be3f4062f3ce5bf2b5f7f17dabe18cb905ab68f2511f8230",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-bard.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-bardic.cur",
+      "size": 1662,
+      "sha256": "717725b21f13eae4a0da6e00d5970acd71ea031b545810de3e905bc059ac21db",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-bardic.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-beekeeper.cur",
+      "size": 1662,
+      "sha256": "f5d89c7e36fcf506dab1924faa4591cfd13fc08f66f6be9ebfd6464f3ae1ec3d",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-beekeeper.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-blacksmith.cur",
+      "size": 1662,
+      "sha256": "68a779fafcf21611ed7b15f13a9dfbb90dacf6392332198f03e0c6ef07de76e9",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-blacksmith.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-blacksmiths.cur",
+      "size": 1662,
+      "sha256": "fb0db4356376311efc340cc0b2698c240ddf8df6300fa0e50a6b89aa33680fcd",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-blacksmiths.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-body.cur",
+      "size": 734,
+      "sha256": "c842214ca9b5666460722e522f7a5ff6ed2894113bebaa4e920f8281997ac250",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-body.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-bowyer.cur",
+      "size": 1662,
+      "sha256": "ce025ae5d16310b3e7cea763af6679f0ca4e322c8d6e01dcffcf929aa5d3815a",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-bowyer.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-brass.cur",
+      "size": 1662,
+      "sha256": "fa4bb78a280d553f200669c207a4110ca5f0c6b62f730a849a0fa3a71ec03c6b",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-brass.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-bridge.cur",
+      "size": 510,
+      "sha256": "d1c68b2cf4c0ccddea9a2dc9ee0180b16a06e4883da899126134a28065679fac",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-bridge.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-bronze.cur",
+      "size": 1822,
+      "sha256": "7e3a6b00b301cbe3cdb17413e426f569e976d0d622fb7902ee48a337f18e858f",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-bronze.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-butcher.cur",
+      "size": 1662,
+      "sha256": "6a5d07042435b87f8bd002cffe6159fbf2755bf8cf527adaa0931a83eab519e3",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-butcher.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-carpenter.cur",
+      "size": 1662,
+      "sha256": "0a1a718de220c5a44bcfe04bbfbfd51af9e9fba2f48420a0bea62571ba1fdf2b",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-carpenter.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-cavalry.cur",
+      "size": 1662,
+      "sha256": "ecf52d9937742b181ee112896816eabf06bc2720eecdfaf9b4b412ad8b0260a0",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-cavalry.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-cooks.cur",
+      "size": 1662,
+      "sha256": "9ed51076d79d7903918e2af2a44b9af217c0ab6303196c5a5e18880f029d450a",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-cooks.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-copper.cur",
+      "size": 1822,
+      "sha256": "52578730fd38781cb09047acf05c867305e341e9844e2f3f396959d79a4c3a9c",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-copper.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-customs.cur",
+      "size": 1662,
+      "sha256": "9768e10dd119622795a42a8b1a2e5334661ab08c6b36253d26b78b788a0234e1",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-customs.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-docks.cur",
+      "size": 502,
+      "sha256": "d1056fb0495dd16fc055c63b197a0914a2a6bd01e23b9165bce45b354cd96048",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-docks.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-dull.cur",
+      "size": 1822,
+      "sha256": "c129ec1d94de8ca0d7b9fd11a0928b52cd1ad1bc52ba427ab1d7d1d5d8e2fba9",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-dull.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-dungeon.cur",
+      "size": 1662,
+      "sha256": "3bf460236396c713e369864262f984943f5db3baf24b80fa37aeb2f73883c2c9",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-dungeon.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-exit.cur",
+      "size": 254,
+      "sha256": "69aa6b8d33ccc2c2eb6db59fe33d3ab9a398f0114c9a576b6ea4898045a9689d",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-exit.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-fighters.cur",
+      "size": 1662,
+      "sha256": "8077c63bc5ed91d8641c1f9b912a520ff4b1596cb00d35848219829616204647",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-fighters.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-fishermans.cur",
+      "size": 1662,
+      "sha256": "2d871e840b942ba42804def9a4a6fd40cb287d384fae4c58abd8d5bc1a824371",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-fishermans.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-fletcher.cur",
+      "size": 1662,
+      "sha256": "2b1322ec5d804360aa3d54d68893de8dc261a4ef19cb2a91ebe5e1862d32eb17",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-fletcher.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-gate.cur",
+      "size": 542,
+      "sha256": "91396c9163073c22708aa67db0648d67536463881cdbd90e1aafcc18c73cb907",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-gate.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-gem.cur",
+      "size": 1150,
+      "sha256": "9f784fe786a10f9a78dc87c5003e0365db50fe496aa938bb743dde7baf922fd4",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-gem.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-golden.cur",
+      "size": 1822,
+      "sha256": "71ad6c8aee881ffe35bc70f51cf3e49d5c9ad97368ebf888554278f723c7ea6b",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-golden.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-graveyard.cur",
+      "size": 318,
+      "sha256": "10120b62361ec8676c465dfa6de6b4d8ed934615a78dd00736e360ec854748ed",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-graveyard.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-guild.cur",
+      "size": 1662,
+      "sha256": "fa4bb78a280d553f200669c207a4110ca5f0c6b62f730a849a0fa3a71ec03c6b",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-guild.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-healer.cur",
+      "size": 1662,
+      "sha256": "d08d53312727ff747dbf3c73129f86eb1ed148ce016bc87d956fe07d8ddaff1e",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-healer.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-healers.cur",
+      "size": 1662,
+      "sha256": "dd5f02e2b81fb3f80331a12106a3dbaca12458a2494394f91662757b483422e7",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-healers.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-illusionists.cur",
+      "size": 1662,
+      "sha256": "15a3d7b9fecc3a8de00f70c4ed2039a81b9da067404e6f9a1c1fe80361a2df49",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-illusionists.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-inn.cur",
+      "size": 1662,
+      "sha256": "8be3b1ea96a5e2e8895b4c251241b2bd43c41c66595a01619bdae9b6aa3b9015",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-inn.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-interest.cur",
+      "size": 542,
+      "sha256": "d1757f82a7f68b2973b1a99a8a801b0384d1185af2efa5832809dff4a0068351",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-interest.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-iron.cur",
+      "size": 1822,
+      "sha256": "541462d42769b051d516758d4bf3ef027cb0720b9142f5378ed1bec4336ef1bc",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-iron.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-island.cur",
+      "size": 942,
+      "sha256": "105c5945f67a207857f0ec773569608b63636940d9f5cd16939270782c442646",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-island.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-jeweler.cur",
+      "size": 1662,
+      "sha256": "dfab673d6acbc0a5a5bed1d7aa0510983e4cb29e74ee736eef024b77b96e0ff5",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-jeweler.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-landmark.cur",
+      "size": 446,
+      "sha256": "9a0bd9ac2a0976c172b925ee929944c077909ca514640b18a1be20fc63a452e6",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-landmark.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-library.cur",
+      "size": 1662,
+      "sha256": "fd2258136d3b63c61a51b6898b421c75bfaec3575aaaff4264cbe7a655fc78a1",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-library.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-mage.cur",
+      "size": 1662,
+      "sha256": "5ffd12e778f693413c3d013659080bf57b97e51a591de39c85f045dc27327fcb",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-mage.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-magic.cur",
+      "size": 1662,
+      "sha256": "c1a51e48958e6133c59c2d15daa0efeef2d6642db2b764d0c342d10f1b316d98",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-magic.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-market.cur",
+      "size": 1662,
+      "sha256": "fa4bb78a280d553f200669c207a4110ca5f0c6b62f730a849a0fa3a71ec03c6b",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-market.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-merchants.cur",
+      "size": 1662,
+      "sha256": "5caa2ea4ffbe7abbdc0c466dd95945a845eca9fe5f4b4bc648f06049aa6045c8",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-merchants.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-mib.cur",
+      "size": 4286,
+      "sha256": "320bb7926afc68dfcb49391cc8801896c9586d96b9ae02a736c5cc8db057cf3b",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-mib.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-miners.cur",
+      "size": 1662,
+      "sha256": "311cc1043406138109f47e4fb3cd3554836f1b1c366f535b4a481703e9581bfb",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-miners.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-moongate.cur",
+      "size": 822,
+      "sha256": "a594f47623cbed681ac9013e9ad632bcb011b3c823ee2bf5dffffbe7d685259b",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-moongate.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-painter.cur",
+      "size": 1662,
+      "sha256": "1b4c2d0489f3a47953c6d5f85d1382e1c8113ca8d20342b8b7f8fa99864b3850",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-painter.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-pin.cur",
+      "size": 4286,
+      "sha256": "7d575b60d58818601a353ea4724cd315101c99475cb5a2dd86822edf2e0a2bbd",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-pin.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-pingold.cur",
+      "size": 4286,
+      "sha256": "918c959fbea3a724018ed513bdf5b4133553b90c7d459974933b96ced35795a0",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-pingold.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-point.cur",
+      "size": 182,
+      "sha256": "0521833f167293719f59dd236f02a1bd69b2e50d1580763c3d15e93aacd95aff",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-point.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-provisioner.cur",
+      "size": 1662,
+      "sha256": "1e415f111339756c7d0ba7712a9752185ed45915d6a6dfa0843776968e301717",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-provisioner.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-provisioners.cur",
+      "size": 1662,
+      "sha256": "ba4c8e42360e3551c56b65dd583da3a771e264fff7a9c11e7b379b64d6322662",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-provisioners.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-reagents.cur",
+      "size": 1662,
+      "sha256": "9fc6bbe6a9e77633ec6b756dc46fb668ee5e7afd7cea9799b70161b3fa83418c",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-reagents.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-rogues.cur",
+      "size": 1662,
+      "sha256": "dc4b48cddfd1988bea56bf859dc1e67fc066fe56b8374bfcc027c6106e35766b",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-rogues.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-ruins.cur",
+      "size": 286,
+      "sha256": "4e7d4d7c590725bbd20aeebbebd6da72594328ded29e7439eaa2f7dddabfca62",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-ruins.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-sailors.cur",
+      "size": 1662,
+      "sha256": "f4eaa420fa06f0f6d5da3c863597b02565a4eb0168fd2112b8e9d226be48efff",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-sailors.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-scenic.cur",
+      "size": 350,
+      "sha256": "f22644b42f461a5a34b75250759823aeb1e95c28a26e78394eaec0975b277d2a",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-scenic.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-shadow.cur",
+      "size": 1822,
+      "sha256": "2471e0d25b39c1f0babf484f651564a74c6a786e34e7ab48658312df5fca5a9c",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-shadow.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-ship.cur",
+      "size": 4286,
+      "sha256": "803109a9a3f8bd719175597f2b40a804316b96077ccdf62417a26f80dc5d343c",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-ship.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-ships.cur",
+      "size": 1662,
+      "sha256": "e0bdf5854af99d08f83c84e7f4fb41f184ebf8328080807e062d36fe4d14a6a5",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-ships.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-shipwright.cur",
+      "size": 1662,
+      "sha256": "1936b549cae9d24c1202b034251e45f6b34ba59a804f383850b045c3a470bce2",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-shipwright.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-shrine.cur",
+      "size": 686,
+      "sha256": "5bb918f16b8c4f9a45b1c534fe677eeddbb7ffe6c0140b1aefc482190a3c8af6",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-shrine.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-sorcerers.cur",
+      "size": 1662,
+      "sha256": "e5dc019144cf61da5a11703e992cf04fd02a25d19ecaf216e2f545d0e01658a3",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-sorcerers.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-stables.cur",
+      "size": 1662,
+      "sha256": "cb210dbcc07ad2170825d53e73ca21b401f42c2378bd4bf11384673628036e7d",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-stables.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-stairs.cur",
+      "size": 458,
+      "sha256": "bcf6ef57dd2ef560aad3e1796dd3130f85fd0feac5b67b37bd38a968f3ed5bef",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-stairs.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-tailor.cur",
+      "size": 1662,
+      "sha256": "a42385b2bbe5460b51022e6f17d6b585f414b6796d625418976f535194c04f5d",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-tailor.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-tanner.cur",
+      "size": 1662,
+      "sha256": "a69075ec70f2b067592c1bbec130fe980ba73b84dbcaf230b552645c14cd0784",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-tanner.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-tavern.cur",
+      "size": 1662,
+      "sha256": "ee2b703fa6a48fc6c376847422e77ec3672ab56230643222c2f8cec7f8724c6e",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-tavern.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-teleporter.cur",
+      "size": 350,
+      "sha256": "6a2811c05060e4d73ef5fcebc0f0479a0c5057945e26d7a6124d1107940113a2",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-teleporter.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-terrain.cur",
+      "size": 422,
+      "sha256": "3d81b44a419a090e7d485c34a47145a53898b6b8a05727a9f6e4086e2aee065a",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-terrain.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-theater.cur",
+      "size": 1662,
+      "sha256": "3ea8a1876a7357269497e7c89bf0753b1bffd39912bc5924a5d0695d69ff4852",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-theater.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-thieves.cur",
+      "size": 1662,
+      "sha256": "160ef109630c0386ad252cd4ae4f1e985694344d5e4c26b8b3a2c7f4d2db2586",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-thieves.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-tinker.cur",
+      "size": 1662,
+      "sha256": "c9b1393c10a4ce64e4b7105350a479d884a92d1ebb50e48123ebb02f292a9c28",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-tinker.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-tinkers.cur",
+      "size": 1662,
+      "sha256": "3a44d72982a8b062ba0e8ef6083f44d2d5e8ba2c1f95fc2128691dc016fb4a65",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-tinkers.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-town.cur",
+      "size": 1342,
+      "sha256": "53abaeade909b648e714a9fd648a013b50347671dd0a02fb00b057a39228d601",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-town.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-traders.cur",
+      "size": 1662,
+      "sha256": "a8fb1cc7b5aa3a03986e524348702efbea8e2e8b13c8289a06495a6a097da407",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-traders.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-treasure.cur",
+      "size": 4286,
+      "sha256": "9f9b487087c4a0753dcb01a92a7c8a31c45176df520fb9dae8762669f3db87b7",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-treasure.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-treasuregold.cur",
+      "size": 4286,
+      "sha256": "861a05680d24cb7039b87ce39473b6ecdbba0c07bf2cfbfc9a5eb4c86eb81bd0",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-treasuregold.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-valorite.cur",
+      "size": 1822,
+      "sha256": "c381948ddbb5ccabea948c0d0dd853c7dc9c29d126b87a941804f1259a97ebe4",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-valorite.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-verite.cur",
+      "size": 1822,
+      "sha256": "7185832319bd2b5bbbbb32b4b78b5199e152b726421b0ea3270709d59c4c3f87",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-verite.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-warriors.cur",
+      "size": 1662,
+      "sha256": "eb418b1d24be0d17227db8d063f1c4c2ef22b5c5528ebf00663bce6f53049d6e",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-warriors.cur"
+    },
+    {
+      "path": "client/Data/Client/MapIcons/blackout-weapons.cur",
+      "size": 1662,
+      "sha256": "1b3e9da7c1724293f6654605ba98f8b7c64854a40da96b5922d3eff45958c412",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/Data__Client__MapIcons__blackout-weapons.cur"
     },
     {
       "path": "client/Data/Plugins/Assistant/FastColoredTextBox.dll",
@@ -241,8 +799,8 @@
     {
       "path": "client/cuo.dll",
       "size": 14876672,
-      "sha256": "55909afbcf03322a2e94108ad0e7d31930dea12fef97760a6eb0dab3f3fba262",
-      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.10/cuo.dll"
+      "sha256": "1f4f089837aba568d51a9554ff4519d34df8520848c2b441ca026b39b925a801",
+      "url": "https://github.com/srosellj/blackout-releases/releases/download/client-v0.1.11/cuo.dll"
     },
     {
       "path": "client/cuoapi.dll",
