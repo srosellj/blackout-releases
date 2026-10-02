@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 27,
-  "publishedAt": "2026-09-30T21:19:22.5186591+00:00",
+  "version": 28,
+  "publishedAt": "2026-10-02T12:28:08.8812594+00:00",
   "launcher": {
     "version": "0.2.2",
     "minVersion": "0.1.0",
@@ -14,7 +14,7 @@
     "port": 2593,
     "clientVersion": "7.0.20.0"
   },
-  "newsUrl": "https://raw.githubusercontent.com/srosellj/blackout-releases/main/news.md",
+  "newsUrl": "https://raw.githubusercontent.com/srosellj/noxperdita-releases/main/news.md",
   "files": [
     {
       "path": "client/ClassicUO.exe",
