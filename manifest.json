@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 29,
-  "publishedAt": "2026-10-02T15:53:46.6987122+00:00",
+  "version": 30,
+  "publishedAt": "2026-10-02T16:37:54.412907+00:00",
   "launcher": {
     "version": "0.2.2",
     "minVersion": "0.1.0",
@@ -924,9 +924,9 @@
     },
     {
       "path": "data/Cliloc.enu",
-      "size": 2957398,
-      "sha256": "018643793950928582deee7ec6a43c5ce0315c7a1c2e2f65733c5be438763c7c",
-      "url": "https://github.com/srosellj/noxperdita-releases/releases/download/data-v1/Cliloc.enu"
+      "size": 2957394,
+      "sha256": "fbbb8b710af85756dc7663a5e796034897469f24a697a66e98af29a24e0fe976",
+      "url": "https://github.com/srosellj/noxperdita-releases/releases/download/data-v9/Cliloc.enu"
     },
     {
       "path": "data/Corpse.def",
